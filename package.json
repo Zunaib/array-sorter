@@ -1,0 +1,24 @@
+{
+  "name": "array-sorter",
+  "version": "0.0.1",
+  "description": "Helper npm package for sorting arrays in different techniques.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zunaib/array-sorter.git"
+  },
+  "keywords": [
+    "sorting",
+    "sorter",
+    "array-sort"
+  ],
+  "author": "Zunaib Imtiaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zunaib/array-sorter/issues"
+  },
+  "homepage": "https://github.com/Zunaib/array-sorter#readme"
+}
